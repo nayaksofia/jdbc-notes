@@ -8,8 +8,7 @@
 5. Close Connection/Result Set/ Statement 
 ```
 
-<img src="image/jdbc_connectivity.jpg">
-
+![alt text](Image/jdbc_connectivity1.png)
 
 ## **Step-0 :** JDBC URL, USERNAME and PASSWORD Of MySQL server
 
